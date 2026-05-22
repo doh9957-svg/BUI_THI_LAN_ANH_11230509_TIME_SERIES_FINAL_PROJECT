@@ -30,16 +30,6 @@ The system includes:
 
 ---
 
-## Student Information
-
-| Information | Value |
-|---|---|
-| Student ID | 11230509 |
-| Course | Time Series |
-| Project Type | Final Project |
-
----
-
 ## Project Structure
 
 ```text
@@ -519,10 +509,10 @@ Potential future enhancements:
 
 | Information | Value |
 |---|---|
+| Name | Bùi Thị Lan Anh |
 | Student ID | 11230509 |
 | Course | Time Series |
 | Project | Final Project |
-
 ---
 
 # License
