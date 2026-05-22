@@ -1,0 +1,5 @@
+,dtype
+meantemp,float64
+humidity,float64
+wind_speed,float64
+meanpressure,float64
